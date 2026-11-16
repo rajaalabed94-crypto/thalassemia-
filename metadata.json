@@ -1,0 +1,6 @@
+{
+  "name": "Thalassemia Social Protection Campaign & Portal",
+  "description": "Connecting vulnerable families affected by thalassemia to social protection, psychosocial counseling, case management, and economic empowerment with dignity and confidentiality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

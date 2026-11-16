@@ -1,0 +1,6 @@
+name = "thalassemia-palestine-campaign"
+compatibility_date = "2025-10-01"
+pages_build_output_dir = "dist"
+
+# Optional Free-Tier Environment Variables (configure secrets via Cloudflare Dashboard or wrangler secret put):
+# - GEMINI_API_KEY (Free AI Studio key for cloud Arabic/English TTS & Gemini chat/advisor; deterministic fallback works even without it)
